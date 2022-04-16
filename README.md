@@ -14,6 +14,15 @@ Tv-Show is Jetpack-Compose simple app . Which loads data from api and using this
 - [Dagger Hilt](https://dagger.dev/hilt/) : Hilt is a dependency injection library for Android
 - [Coil](https://coil-kt.github.io/coil/compose/) : Coil is easy image loading library 
 
+## TODO
+Any can contribute this project . at first we have to do some task
+- [] clean code and architecture .
+- [] add actors pages 
+- [] modify appbar 
+
+
+
+
 ## Preview
 
 <img src="https://media.giphy.com/media/1fGIPDW7VS1SMjLxt2/giphy.gif" height="500" width="250"/>
