@@ -1,4 +1,4 @@
-### Tv-Show
+## Tv-Show
 
 Tv-Show is a Details of Tv Show App which is build in Jetpack Compose . In This App we have use many modern technology , new library,and new design .
 
@@ -6,7 +6,7 @@ Tv-Show is a Details of Tv Show App which is build in Jetpack Compose . In This 
 
 Tv-Show is Jetpack-Compose simple app . Which loads data from api and using this api show all Tv-Show and their details. 
 
-### Technology used
+## Technology used
 
 - [MVVM](https://www.geeksforgeeks.org/mvvm-model-view-viewmodel-architecture-pattern-in-android/) : Here we used Mvvm (Model-View-ViewModel) 
 - [Retrofit](https://square.github.io/retrofit/) : For networking we use Retrofit .
@@ -14,9 +14,15 @@ Tv-Show is Jetpack-Compose simple app . Which loads data from api and using this
 - [Dagger Hilt](https://dagger.dev/hilt/) : Hilt is a dependency injection library for Android
 - [Coil](https://coil-kt.github.io/coil/compose/) : Coil is easy image loading library 
 
-### Preview
+## Preview
 
 <img src="https://media.giphy.com/media/1fGIPDW7VS1SMjLxt2/giphy.gif" height="500" width="250"/>
+
+## Buy me a Coffee
+
+If u wish buy me a coffee . 
+
+<a href="https://www.buymeacoffee.com/wasimakram15185"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=wasimakram15185&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 
 ## License
