@@ -16,7 +16,7 @@ Tv-Show is Jetpack-Compose simple app . Which loads data from api and using this
 
 ### Preview
 
-<img src="https://media.giphy.com/media/1fGIPDW7VS1SMjLxt2/giphy.gif" height="400" width="200"/>
+<img src="https://media.giphy.com/media/1fGIPDW7VS1SMjLxt2/giphy.gif" height="500" width="250"/>
 
 
 ## License
