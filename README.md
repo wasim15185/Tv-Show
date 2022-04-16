@@ -16,7 +16,7 @@ Tv-Show is Jetpack-Compose simple app . Which loads data from api and using this
 
 ## TODO
 Any can contribute this project . at first we have to do some task
-- [ ] clean code and architecture .
+- [ ] clean code and architecture . :sparkles:
 - [ ] add actors pages 
 - [ ] modify appbar 
 
