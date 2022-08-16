@@ -1,4 +1,4 @@
-package android.example.tv_show.simmer
+package android.example.tv_show.simmer.all_movie
 
 import android.example.tv_show.ui.theme.*
 import androidx.compose.animation.core.*

@@ -2,7 +2,7 @@ package android.example.tv_show.ui.screens.all_movies
 
 import android.example.tv_show.component.MovieCard
 import android.example.tv_show.data.models.TvShow
-import android.example.tv_show.simmer.AllMoviesSimmerAnimationLoadingScreen
+import android.example.tv_show.simmer.all_movie.AllMoviesSimmerAnimationLoadingScreen
 import android.example.tv_show.utils.ResponseState
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items

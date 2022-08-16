@@ -1,4 +1,4 @@
-package android.example.tv_show.simmer
+package android.example.tv_show.simmer.all_movie
 
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.runtime.Composable
